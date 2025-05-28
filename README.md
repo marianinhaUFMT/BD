@@ -1,5 +1,5 @@
 # Trabalho de Banco de Dados - Sistema de Gestão de Clínicas Médicas
-Uma rede de clínicas médicas, chamada Saúde+, deseja informa􀆟zar seu processo de
+Uma rede de clínicas médicas, chamada Saúde+, deseja informatizar seu processo de
 agendamento de consultas e controle de pacientes. Atualmente, os registros são feitos
 manualmente, causando problemas como sobreposição de horários, dificuldade de acesso ao
 histórico de pacientes e falta de organização no controle de pagamentos.
