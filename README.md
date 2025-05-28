@@ -30,17 +30,19 @@ procedimentos e consultas. Um paciente pode estar associado a apenas um convêni
 mas um convênio pode cobrir vários pacientes.
 10. Recepcionistas são responsáveis pelo agendamento das consultas e precisam ser
 registradas no sistema com nome, CPF e telefone.
+
+Segunda parte do trabalho
 1. Faça inserções em todas as tabelas por você criadas (ao menos 10).
 2. Realize as seguintes consultas:
 - Listar todas as consultas agendadas para um determinado médico em um dia
 específico;
-- Contar quantas consultas cada médico realizou no úl􀆟mo mês
-- Encontrar os pacientes que nunca 􀆟veram uma consulta agendada
+- Contar quantas consultas cada médico realizou no último mês
+- Encontrar os pacientes que nunca tiveram uma consulta agendada
 - Listar os procedimentos realizados em uma consulta específica
-- Calcular o total pago por cada paciente nos úl􀆟mos 3 meses
-- Iden􀆟ficar os convênios que cobrem mais de 50% do valor das consultas
+- Calcular o total pago por cada paciente nos últimos 3 meses
+- Identificar os convênios que cobrem mais de 50% do valor das consultas
 - Listar todos os pacientes atendidos por um determinado médico
-- Mostrar o faturamento total do úl􀆟mo mês, considerando apenas pagamentos
+- Mostrar o faturamento total do último mês, considerando apenas pagamentos
 concluídos
 - Encontrar os médicos que possuem mais de 5 consultas marcadas para a
 próxima semana
